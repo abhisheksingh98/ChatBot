@@ -8,7 +8,7 @@ Chat bot will communicate to it’s customers via the Facebook Messenger.
 We can use this Chatbot to :
  Get customized notifications and news. Our bot can act as a smart newspaper, sending you relevant content as soon as it's published.
 
-Integrate with other services. Our bot can enrich chats with content from external services like IMDB, Wiki, YouTube, GitHub, Foursquare....
+Integrate with other services. Our bot can enrich chats with content from external services like IMDB, Wiki, YouTube, GitHub, Foursquare etc
 
 Create custom tools. Our bot may provide alerts, weather forecasts, translations, formatting or other services.
 
